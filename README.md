@@ -4,11 +4,11 @@
 
 <br />
 
-### AI Product Engineering · Agentic AI · RAG Systems · Intelligent Automation
+### AI Product Engineering · Agentic AI · Intelligent Automation
 
-**I work at the intersection of enterprise technology, product thinking, and applied AI.**
+**I build AI-powered products, design intelligent workflows, and lead enterprise technology transformation.**
 
-From navigating complex operational challenges to building intelligent software, I’m interested in one question: **How do we make technology genuinely useful?**
+The common thread: **turning complex problems into systems people can actually use.**
 
 [**Explore selected work ↓**](#selected-work) &nbsp;·&nbsp; [**Connect on LinkedIn ↗**](https://www.linkedin.com/in/inabilashraf/) &nbsp;·&nbsp; [**Repositories ↗**](https://github.com/imnashraf?tab=repositories)
 
@@ -16,15 +16,15 @@ From navigating complex operational challenges to building intelligent software,
 
 ---
 
-### 01 / A little about me
+### 01 / The intersection
 
-My work spans two complementary worlds:
+**AI product builder first. Enterprise technology leader by experience.**
 
-**Enterprise technology & transformation.** I work with cross-functional business and technology teams on enterprise systems and operational change, including Oracle Fusion Cloud implementation activities across HR, finance, and supply chain. This brings firsthand exposure to integrations, delivery dependencies, user acceptance, governance, and the gap between a system that *works* and one people can actually depend on.
+I build and explore **AI products, agentic systems, retrieval-grounded applications, and intelligent automation**—with an emphasis on usability, evidence, and dependable execution.
 
-**Applied AI & product engineering.** I build and experiment with intelligent applications: retrieval-grounded assistants, autonomous workflows, Model Context Protocol (MCP) integrations, and products that turn fragmented information into decisions.
+Alongside that work, I **lead and deliver enterprise technology implementations** across interconnected business functions. Working close to real processes, people, and operational constraints shapes how I approach every product: solve the right problem, engineer with care, and make the outcome useful.
 
-I’m especially drawn to difficult, overlooked problems—not AI added for novelty, but AI that makes a complex task clearer, faster, or more trustworthy.
+I’m drawn to ideas that are ambitious in what they solve—and disciplined in how they are built.
 
 ### 02 / Selected work
 
@@ -93,7 +93,67 @@ An MCP integration layer for Gmail and Google Docs with OAuth authorization, res
 
 ---
 
-### 03 / How I think about engineering
+### 03 / On the workbench
+
+**Some of the most interesting things I’m building aren't public yet.**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### Nisshi
+
+*Everyday life, reconsidered.*
+
+Exploring a more connected way to bring the moving parts of everyday life together.
+
+**In development · Details under wraps**
+
+</td>
+<td width="33%" valign="top">
+
+#### Real Estate Intelligence
+
+*Look beyond the listing.*
+
+Working on new ways to think about property information, trust, and better decisions.
+
+**In development · More to come**
+
+</td>
+<td width="33%" valign="top">
+
+#### Independent SaaS
+
+*Small frictions. Bigger possibilities.*
+
+Experimenting with software products at the intersection of practical needs, AI, and automation.
+
+**In exploration · Quietly building**
+
+</td>
+</tr>
+</table>
+
+*These are ongoing explorations, not announced launches. I share what’s ready to be useful; some of the work stays behind the scenes for now.*
+
+### 04 / Enterprise technology & transformation
+
+**Leading delivery in complex organizations has shaped the way I build.**
+
+My work includes leading and delivering enterprise application implementations, integration initiatives, cloud migration, and business process transformation—with responsibility across stakeholder alignment, vendor coordination, testing, readiness, go-live, and operational transition.
+
+| Enterprise focus | Delivery experience |
+| :--- | :--- |
+| **Oracle Cloud** | Fusion SCM, Financials and HCM; Oracle EPM, PPM, and Warehouse Management |
+| **Microsoft Dynamics & media technology** | Platforms and integrations supporting media planning and buying, campaign operations, creative and ad tech, verification and brand safety, and finance and reconciliation |
+| **Business & cloud transformation** | Cloud migration and implementation, HR shared services, cross-functional processes, and enterprise integrations |
+
+I bring that operational perspective into **AI Product Engineering, Agentic AI, and Intelligent Automation**—because designing a compelling prototype and delivering a dependable system are different challenges.
+
+---
+
+### 05 / How I think about engineering
 
 > **A polished demo tells you what a system can do. Its edge cases tell you whether it can be trusted.**
 
@@ -105,7 +165,7 @@ My recurring interests are:
 - **Delivery over abstraction** — Design for integration, deployment, maintenance, and real operational use.
 - **Product experience matters** — Intelligent technology should feel intuitive, not complicated.
 
-### 04 / Tools and technologies
+### 06 / Tools and technologies
 
 | Focus | Technologies and approaches |
 | :--- | :--- |
@@ -113,15 +173,15 @@ My recurring interests are:
 | **Agent tooling** | Model Context Protocol (MCP), tool orchestration, controlled retries, validation |
 | **Application engineering** | Python, TypeScript, JavaScript, Next.js, React |
 | **Data & infrastructure** | PostgreSQL, Supabase, Pinecone, Vercel, Railway, GitHub Actions |
-| **Enterprise technology** | Oracle Fusion Cloud implementation and cross-functional delivery |
+| **Enterprise technology** | Oracle Fusion Cloud SCM, Financials & HCM; EPM; PPM; Warehouse Management; Microsoft Dynamics; cloud transformation |
 
 *The technologies above represent project exposure, not a claim of equal depth in every tool.*
 
 ---
 
-### 05 / Let's build something meaningful
+### 07 / Let's build something meaningful
 
-I enjoy connecting with **founders, product builders, engineering teams, and recruiters** working on applied AI, enterprise intelligence, agentic systems, and products built around real customer needs.
+I enjoy connecting with **founders, product builders, engineering teams, and recruiters** working on AI-first products, agentic systems, intelligent automation, and enterprise innovation.
 
 Whether you’re building something new, exploring an AI use case, or discussing an engineering opportunity, I’m open to thoughtful conversations.
 
